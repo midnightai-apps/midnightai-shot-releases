@@ -9,11 +9,11 @@
 
 디자인을 비교하거나, 표의 숫자를 옮기거나, 설명을 보며 따라 할 때. 참고할 화면을 캡처해서 옆에 띄워두세요. Midnight Shot은 캡처한 이미지를 다른 창 위에 고정해두는 앱이에요.
 
-### Mac에서 무료로 시작해요
+### Mac에서 시작해요
 
-[**Mac용 무료 다운로드 · DMG**](https://github.com/midnightai-apps/midnightai-shot-releases/releases/download/macos-live-v1.0.2-b13/Midnight.Shot.Direct.dmg) · [변경 내용](https://github.com/midnightai-apps/midnightai-shot-releases/releases/tag/macos-live-v1.0.2-b13)
+[**Mac용 다운로드 · DMG**](https://github.com/midnightai-apps/midnightai-shot-releases/releases/download/macos-live-v1.0.2-b13/Midnight.Shot.Direct.dmg) · [변경 내용](https://github.com/midnightai-apps/midnightai-shot-releases/releases/tag/macos-live-v1.0.2-b13)
 
-macOS 14 이상 · Apple Silicon(M1 이상)에서 사용할 수 있어요. 여기서 내려받는 Mac 버전은 모든 기능이 무료예요. 회원가입이나 라이선스 키 없이 사용할 수 있어요.
+macOS 14 이상 · Apple Silicon(M1 이상)에서 사용할 수 있어요. 회원가입이나 라이선스 키 없이 사용할 수 있어요.
 
 ### 이렇게 써보세요
 
@@ -40,11 +40,11 @@ Windows 다운로드는 준비 중이에요. 배포 파일은 이 저장소의 [
 
 Compare a design, copy numbers from a table, or follow a set of instructions. Capture what you need and keep it beside your work. Midnight Shot lets you pin screenshots above your other windows.
 
-### Get started on Mac for free
+### Get started on Mac
 
 [**Download for Mac · DMG**](https://github.com/midnightai-apps/midnightai-shot-releases/releases/download/macos-live-v1.0.2-b13/Midnight.Shot.Direct.dmg) · [What's new](https://github.com/midnightai-apps/midnightai-shot-releases/releases/tag/macos-live-v1.0.2-b13)
 
-Requires macOS 14 or later and Apple Silicon (M1 or later). The Mac download here includes every feature for free. No account or license key needed.
+Requires macOS 14 or later and Apple Silicon (M1 or later). No account or license key needed.
 
 ### Make it part of your workflow
 
