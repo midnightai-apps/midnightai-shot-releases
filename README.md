@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="assets/midnight-shot-icon.png" width="96" height="96" alt="Midnight Shot app icon">
-</p>
-
 # Midnight Shot
 
 [한국어](#한국어) · [English](#english)
@@ -21,6 +17,14 @@ Midnight Shot으로 필요한 부분을 캡처해 옆에 띄워두세요. 캡처
 ### 필요한 부분만 골라서 캡처해요
 
 작은 문구나 표만 필요하면 `Capture Area`로 영역을 드래그해보세요. 앱 창 하나는 `Capture Window`, 화면 전체는 `Capture Screen`으로 찍을 수 있어요. 메뉴 막대의 Midnight Shot 아이콘에서 선택하면 돼요.
+
+
+**영역 선택 예시**
+
+![Midnight Shot의 화면 영역 선택을 설명하는 예시 이미지](assets/area-capture.png)
+
+영역 선택 기능을 설명하기 위해 만든 예시 이미지예요.
+
 
 캡처한 이미지는 화면에 바로 떠요. 설정에서 `Show screenshot overlay after capture`를 끄면 이미지를 화면에 띄우지 않고 파일로만 저장할 수도 있어요.
 
@@ -82,6 +86,14 @@ Requires **macOS 14 or later and Apple Silicon (M1 or later)**. The features and
 ### Capture just the part you need
 
 Choose `Capture Area` and drag over a piece of text or a table. Use `Capture Window` for a single app window, or `Capture Screen` for the whole screen. You'll find all three in the Midnight Shot menu bar menu.
+
+
+**Area selection example**
+
+![Illustration showing how region selection works in Midnight Shot](assets/area-capture.png)
+
+An illustrative example of region selection.
+
 
 Your capture appears on screen right away. If you only want to save a file, turn off `Show screenshot overlay after capture` in Preferences.
 
